@@ -1,8 +1,8 @@
 # Viewer
 .Net Windowsフォームの画像ビューワーです
 
+![giffile](https://github.com/gologius/Viewer/blob/master/use.gif)
 
-https://github.com/gologius/Viewer/blob/master/use.gif
 
 
 説明記事
